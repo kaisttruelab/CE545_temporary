@@ -1,27 +1,56 @@
----
-title: Home
-layout: home
----
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# **CE252 Class: Introduction to Data Science for Civil Engineers**
+## KAIST, Fall 2023
+{: .text-grey-lt-300}
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+### Instructors: Yoonjin Yoon, Yuyol Shin
+- email: yoonjin@kaist.ac.kr, yuyol.shin@kaist.ac.kr
+- office: W16 Rm410, W16 Rm407
+- office hours: Wed. 15:00 ~ 16:00 or by appointment
 
-More specifically, the created site:
+### Class time
+ - Mon: 14:30~16:00
+ - Wed: 14:30~16:00
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+### Classroom
+  - (W1-2) Dept. of Civil & Environmental Engineering 1201호
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
 
-To get started with creating a site, simply:
+### Course	Description
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+Advanced course in AI and ML applications to transportation system. This is a team-based PBL course that student teams up with other classmates to work on real-world case. 
+Focus topic varies by the year. Topics from previous years include short-term traffic forecast, urban accessibility, and urban location intelligence.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+### Prerequisites
+Basic engineering mathematics and statistics. Introductory ML or DL courses. Python. 
+
+### Syllabus
+[Syllabus](https://drive.google.com/file/d/1Qi9egNaXptfOmmAAqyoSA2IiU9ffoyKb/view?usp=drive_link)
+
+## Announcements
+
+| Week 0     |
+
+
+
+### Week 1
+
+| Aug 28     | Introduction              | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
+|            |                               | [Textbook](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-purple }     |
+| Aug 30     | Class organization        | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
+|            |                               | [Lab 01](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-green }       |
+
+
+### Week 2
+
+| Sep 04     | Data Literacy             | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
+|            | Cause and Effect, Tables  |     |
+| Sep 06     | Data Types, Building      | [Slide](https://docs.google.com/presentation/d/1JH9mf-DmNgxgPbPEeUceDfpC8UEKxIC3ly7QS_4_1oI/edit#slide=id.g610d9f86d0_0_5){: .btn .btn-blue }         |
+|            | Tables, Census            | [Lab 02](https://drive.google.com/file/d/16fcSSeWqr_ERq6-mJACPq145Ex77emAn/view){: .btn .btn-green }       |
+
+
+
 
 ----
 
