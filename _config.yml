@@ -2,7 +2,7 @@ title: CE545 Class
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://kaisttruelab.github.io/ce545
+url: https://just-the-docs.github.io/ce545
 
 aux_links:
   Office Hours: https://www.data8.org/fa23/officehours/
